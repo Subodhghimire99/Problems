@@ -6,5 +6,5 @@ Check it out and try solving.
   </p>
 
 <p>You can contribute by adding problems in following format.<br>
-"<problem_name>.txt"
+Problem_name.txt"
 
