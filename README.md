@@ -1,9 +1,9 @@
 # Problems
 Contains different problems from different sources
-
-Each problem is in txt file.
+<p>
+Each problem is in txt file.<br>
 Check it out and try solving.
+  </p>
 
-You can contribute by adding problems if following format..
-<problem_name>.txt
+<p>You can contribute by adding problems in following format.<br><problem_name>.txt
 
