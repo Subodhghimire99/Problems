@@ -1,5 +1,5 @@
 # Problems
-Contains different problems from different sources
+Contains problems from different sources
 <p>
 Each problem is in txt file.<br>
 Check it out and try solving.
